@@ -1,5 +1,5 @@
 # bilibili-plus
-(stylus css)按个人喜好深度美化B站，推荐搭配隔壁[bilibili-simple-home]([https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne](https://github.com/hakadao/bilibili-simple-home))修改首页使用
+按个人喜好深度美化B站，推荐搭配隔壁[bilibili-simple-home](https://github.com/hakadao/bilibili-simple-home)修改首页使用
 
 ## 安装
 

@@ -1,6 +1,10 @@
 # bilibili-plus
 按个人喜好深度美化B站，推荐搭配隔壁[bilibili-simple-home](https://github.com/hakadao/bilibili-simple-home)修改首页使用
 
+## 更新说明
+v20220815.1：
+第一个正式版，仅完成了动态页面，预计下个版本完成视频页面的美化；
+
 ## 安装
 
 > 请先在浏览器安装 `Stylus` 插件，再进行以下安装

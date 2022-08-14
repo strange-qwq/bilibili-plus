@@ -1,22 +1,22 @@
 /* ==UserStyle==
-@name         QWQ - bilibili plus
+@name			QWQ - bilibili plus
 @namespace		QWQ.css at bilibili
-@author			  QWQ<1456158721@qq.com>
-@description	美化B站动态页及视频页
-@version		  20220814.5
-@homepageURL	https://github.com/nganh1/bilibili-plus
+@author			QWQ<1456158721@qq.com>
+@description		美化B站动态页及视频页
+@version		20220814.5
+@homepageURL		https://github.com/nganh1/bilibili-plus
 @supportURL		https://github.com/nganh1/bilibili-plus/issues
 @updateURL		https://userstyles.world/api/style/6121.user.css
-@license		  MIT
-@preprocessor	uso
+@license		MIT
+@preprocessor		uso
 
 @advanced dropdown HIDDEN_PUBLISHING_BOX "隐藏动态页发布组件" {
+	HIDDEN_PUBLISHING_BOX_NORMAL "显示*" <<<EOT
+	EOT;
 	HIDDEN_PUBLISHING_BOX_HIDDEN "隐藏" <<<EOT
 		.bili-dyn-publishing {
 			display: none;
 		}
-	EOT;
-	HIDDEN_PUBLISHING_BOX_NORMAL "显示*" <<<EOT
 	EOT;
 }
 
